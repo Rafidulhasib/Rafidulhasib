@@ -1,12 +1,19 @@
 <h1 align="center">👋 Hello, I'm Md Rafidul Hasib</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=950&lines=Aspiring+Security+Analyst;Cybersecurity+Enthusiast;Software+Testing+Learner;Playwright+%7C+Postman+%7C+Hoppscotch;Wireshark+%7C+JavaScript+%7C+Node.js;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Aspiring+Security+Analyst;Cybersecurity+Enthusiast;Software+Testing+Learner;Playwright+%7C+Postman+%7C+Hoppscotch;Wireshark+%7C+JavaScript+%7C+Node.js" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  I am passionate about cybersecurity and working step by step toward becoming a Security Analyst.<br>
-  I am also building practical skills in software testing, API testing, test automation, networking, and web development.
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding animation" />
+</p>
+
+<p align="center">
+  Passionate about cybersecurity, software testing, and continuous technical learning.
+</p>
+
+<p align="center">
+  Working step by step toward becoming a Security Analyst.
 </p>
 
 ---
